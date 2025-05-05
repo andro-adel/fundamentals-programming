@@ -1,0 +1,25 @@
+Data Structures
+
+Algorithms
+
+Object-Oriented Programming (OOP)
+
+SOLID Principles
+
+DRY (“Don’t Repeat Yourself”) Principle
+
+KISS (“Keep It Simple, Stupid”) Principle
+
+YAGNI (“You Aren’t Gonna Need It”) Principle
+
+Design Patterns
+
+Testing (TDD, BDD)
+
+Database Management & SQL && NoSQL
+
+System Design & Architecture
+
+CI/CD & DevOps Practices
+
+Cloud Computing Fundamentals
